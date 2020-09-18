@@ -7,16 +7,13 @@ body {
         color:white;
         font-family:Helvetica;
         font-weight:700;
-        background-size: 1000px;
+        background-size: 9000px;
 }
 table {
     color: red;
     background-color:white;
     font-weight:700;
 }
-
-#logo{
-        size: 50%;
 
 a {
     color: DarkRed;
