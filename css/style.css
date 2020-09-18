@@ -7,8 +7,8 @@ body {
         color:white;
         font-family:Helvetica;
         font-weight:700;
-        background-repeat:no-repeat;
-        background-size:fill;
+        background-repeat:repeat;
+        background-size: cover;
 }
 table {
     color: red;
